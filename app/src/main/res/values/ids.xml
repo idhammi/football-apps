@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rv_leagues" type="id" />
+    <item name="rv_last_match" type="id" />
+    <item name="rv_next_match" type="id" />
+    <item name="rv_teams" type="id" />
+    <item name="match_layout" type="id" />
+    <item name="match_alarm" type="id" />
+    <item name="team_badge" type="id" />
+    <item name="team_name" type="id" />
+    <item name="league_name" type="id" />
+    <item name="event_date" type="id" />
+    <item name="event_time" type="id" />
+    <item name="home_name" type="id" />
+    <item name="away_name" type="id" />
+    <item name="home_score" type="id" />
+    <item name="away_score" type="id" />
+    <item name="schedule_pager" type="id" />
+    <item name="player_coutout" type="id" />
+    <item name="player_name" type="id" />
+    <item name="player_pos" type="id" />
+</resources>
